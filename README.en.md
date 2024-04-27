@@ -34,6 +34,14 @@ To install your desired version, add the version to the end of the installation 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.3.0
 ```
 
+## Acme-Script
+
+acme.sh One click certificate application script
+
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
+```
+
 ## SSL Certificate
 
 <details>
