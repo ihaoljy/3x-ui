@@ -34,6 +34,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.2.8
 ```
 
+## Acme-Script
+
+acme.sh 证书一键申请脚本
+
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
+```
+
 ## SSL 认证
 
 <details>
